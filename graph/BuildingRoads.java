@@ -44,7 +44,7 @@ class pair{
         this.second = second;
     }
 }
-public class Solution1666 {
+public class BuildingRoads {
     public static void main(String[] args) throws IOException {
        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(bufferedReader.readLine());

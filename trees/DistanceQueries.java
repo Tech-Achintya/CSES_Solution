@@ -4,7 +4,7 @@ import java.io.InputStream;
 import java.io.PrintWriter;
 import java.util.*;
 
-public class Main {
+public class DistanceQueries {
     static class FastScanner {
         private final InputStream in = System.in;
         private final byte[] buffer = new byte[1 << 16];

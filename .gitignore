@@ -1,0 +1,31 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Output folders
+output/
+**/output/
+bin/
+build/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+
+# Debug and symbol files
+*.pdb
+*.ilk
+*.idb
+*.dSYM/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
